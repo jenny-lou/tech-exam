@@ -54,7 +54,7 @@ describe('The sim only plan flow', () => {
     })
   })
 
-  it.only("Add the first Plan to Cart and Assert Values", () => {
+  it("Add the first Plan to Cart and Assert Values", () => {
     let pricePlanUI = ""
     let pricePlanAPI = ""
 
