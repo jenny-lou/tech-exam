@@ -21,5 +21,7 @@ module.exports = defineConfig({
     },
   },
   video: true,
-  videoCompression: true
+  videoCompression: true,
+  viewportWidth: 1920,
+  viewportHeight: 1080,
 })
