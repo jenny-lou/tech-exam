@@ -2,7 +2,7 @@
   "scripts": {
     "cy:run:firefox": "cypress run --browser firefox --headless",
     "cypress:run": "npx cypress run --reporter mochawesome --reporter-options reportDir=cypress/results,overwrite=false,html=false,json=true",
-    "cypress:report": "npx mochawesome-merge cypress/results/*.json > cypress/results/report.json && npx marge cypress/results/report.json -f report -o cypress/results/html"
+    "cypress:report": "npx mochawesome-merge cypress/results/*.json --output cypress/results/report.json && npx marge cypress/results/report.json -f report -o cypress/results/html"
   },
   "devDependencies": {
     "cypress": "^15.6.0",
