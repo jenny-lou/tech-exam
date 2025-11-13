@@ -42,6 +42,22 @@ It will fail on the last page validating the added plan price ($45) vs on the ca
 ### To run the report
 
 
+1. Install mochawesome
+
+```bash
+
+npm install --save-dev cypress mochawesome mochawesome-merge mochawesome-report-generator
+```
+
+
+2.  Run the following commands:
+```bash
+npm run cypress:run
+npm run cypress:report
+```
+
+
+
 
 
 ---

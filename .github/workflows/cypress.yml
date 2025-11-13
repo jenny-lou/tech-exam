@@ -28,7 +28,7 @@ jobs:
         run: npm run cypress:report
 
       - name: Upload test report artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: cypress-test-report
           path: cypress/results/html/
