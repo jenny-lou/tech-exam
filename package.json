@@ -1,0 +1,8 @@
+{
+  "scripts":{
+    "cy:run:firefox": "cypress run --browser firefox --headless"
+  },
+  "devDependencies": {
+    "cypress": "^15.6.0"
+  }
+}

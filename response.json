@@ -1,0 +1,705 @@
+{
+    "pageHeaderData": {
+        "metaTags": "&lt;link rel=&quot;canonical&quot; href=&quot;https://www.vodafone.com.au/mobile/sim-only-phone-plans&quot;/&gt;&lt;meta name=&quot;description&quot; content=&quot;Switch to Vodafone's SIM Only plans and enjoy great value with no lock-in contracts. Sign up today.&quot;/&gt;  &lt;meta name=&quot;twitter:card&quot; content=&quot;summary&quot; /&gt;&lt;meta name=&quot;twitter:site&quot; content=&quot;@VodafoneAU&quot; /&gt;&lt;meta name=&quot;twitter:title&quot; content=&quot;SIM Only Plans&quot; /&gt;&lt;meta name=&quot;twitter:description&quot; content=&quot;Bring your own mobile phone and sign up to a SIM Only Plan.&quot; /&gt;&lt;meta name=&quot;twitter:image&quot; content=&quot;https://www.vodafone.com.au/images/meta/plans-sim-only-twitter.jpg&quot; /&gt;&lt;meta property=&quot;og:title&quot; content=&quot;SIM Only Plans&quot; /&gt;&lt;meta property=&quot;og:type&quot; content=&quot;product.group&quot; /&gt;&lt;meta property=&quot;og:url&quot; content=&quot;https://www.vodafone.com.au/mobile/sim-only-phone-plans&quot; /&gt;&lt;meta property=&quot;og:image&quot; content=&quot;https://www.vodafone.com.au/images/meta/plans-sim-only-og.jpg&quot; /&gt;&lt;meta name=&quot;cludo:image&quot; content=&quot;https://www.vodafone.com.au/images/meta/plans-sim-only-thumbnail.jpg&quot; /&gt;&lt;meta property=&quot;og:description&quot; content=&quot;Bring your own mobile phone and sign up to a SIM Only Plan&quot; /&gt;&lt;meta property=&quot;og:site_name&quot; content=&quot;Vodafone Australia&quot;/&gt;",
+        "seoTitle": "SIM Only Plans – Sign up today | Vodafone Australia",
+        "seoData": [
+            "{ \"@context\": \"http://schema.org\", \"@type\": \"FAQPage\", \"mainEntity\": [{ \"@type\": \"Question\", \"name\": \"Why should I choose Vodafone to get a SIM Only phone plan?\", \"acceptedAnswer\": { \"@type\": \"Answer\", \"text\": \"With our Vodafone Infinite SIM Only Plans, you’ll get heaps of included data and then you can keep using data in Oz at slower speeds. T&C apply.\" } }, { \"@type\": \"Question\", \"name\": \"Can I bring my current number across to Vodafone?\", \"acceptedAnswer\": { \"@type\": \"Answer\", \"text\": \"Yes. Once you’ve signed up to a plan online, give us a call so that we can bring your current number across to us.\" } }, { \"@type\": \"Question\", \"name\": \"Can I save if I have multiple plans under one account?\", \"acceptedAnswer\": { \"@type\": \"Answer\", \"text\": \"Yes. You can bundle eligible plans under one account and save from 5% to 20% on plan fees. T&C apply.\" } }] }",
+            "{ \"@context\": \"http://schema.org\", \"@type\": \"Product\", \"name\": \"SIM Only and BYO Mobile Phone Plans\", \"image\": \"https://www.vodafone.com.au/images/meta/plans-sim-only-og.jpg\", \"description\": \"Bring your own mobile phone and sign up to a monthly SIM Only Plan with Vodafone. You can get a 30-day Network Satisfaction guarantee or your money back\", \"url\": \"https://www.vodafone.com.au/plans/sim-only\", \"brand\": { \"@type\": \"Brand\", \"name\": \"Vodafone Australia\", \"logo\": \"https://www.vodafone.com.au/sites/static/simplicity/assets/images/VF_Logo.svg\" }, \"offers\": { \"@type\": \"AggregateOffer\", \"lowPrice\": \"49\", \"highPrice\": \"69\", \"priceCurrency\": \"AUD\"} }"
+        ],
+        "altBreadcrumb": "",
+        "defaultTitle": "SIM Only plans for phones",
+        "defaultDescription": "&lt;p&gt;Our Vodafone SIM Only Plans are perfect if you already have a phone that you love. All our plans have heaps of included data, and if you use it all, you can keep using data in Oz at &lt;a href=&quot;https://www.vodafone.com.au/support/plans/speed-guide&quot;&gt;slower speeds&lt;/a&gt;. You&rsquo;ll also enjoy a no lock-in contract, meaning you can change or cancel your plan anytime. T&amp;amp;C apply.&lt;/p&gt;",
+        "intro": "&lt;p&gt;Enjoy the freedom of SIM Only plans. Where you provide the phone, and we provide loads of data.&lt;/p&gt;",
+        "experienceFragments": [
+            [],
+            []
+        ]
+    },
+    "faqs": {
+        "identifier": "CATPOSTPAIDSIMOPLANSV2",
+        "sectionTitle": "Frequently asked questions",
+        "faqItems": [
+            {
+                "title": "Why should I choose Vodafone to get a SIM Only phone plan?",
+                "description": "&lt;p&gt;&lt;b&gt;No excess data charges&lt;br /&gt; &lt;/b&gt;With our Vodafone Infinite SIM Only Plans, you&rsquo;ll get heaps of data and then you can keep using data in Oz at &lt;a href=&quot;https://www.vodafone.com.au/support/plans/speed-guide&quot;&gt;slower speeds&lt;/a&gt;. T&amp;amp;C apply.&lt;/p&gt;&lt;p&gt;&lt;b&gt;$5 Roaming&lt;br /&gt; &lt;/b&gt;Use your included data, calls and texts in over 100 destinations for $5 extra a day. Destinations may vary. Excludes speed capped data. T&amp;amp;C apply. &lt;a href=&quot;https://www.vodafone.com.au/mobile/international-roaming&quot;&gt;Find out more&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Network Satisfaction Guarantee&lt;br /&gt; &lt;/b&gt;Take 30 days to decide if you love our network with our Network Satisfaction Guarantee. T&amp;amp;C apply.&lt;/p&gt;"
+            },
+            {
+                "title": "Can I bring my current number across to Vodafone?",
+                "description": "&lt;p&gt;Yes. Once you&rsquo;ve signed up to a plan, fill out our &lt;a href=&quot;https://www.vodafone.com.au/support/sign-up/transfer-number&quot;&gt;Customer Authorisation Form&lt;/a&gt; so that we can bring your current number across to us.&lt;/p&gt;"
+            },
+            {
+                "title": "Can I bring my own 5G device?",
+                "description": "&lt;p&gt;You can bring your own compatible 5G device to Vodafone to use with a SIM Only Plan. If you purchased a 5G device from another provider, you may not have access to our full 5G coverage. Check out our &lt;a href=&quot;https://www.vodafone.com.au/about/legal/devices&quot;&gt;approved devices&lt;/a&gt; to see which have been tested and optimised for use on Vodafone&rsquo;s network.&nbsp;&lt;/p&gt;"
+            },
+            {
+                "title": "Can I contact emergency services using a BYO device?",
+                "description": "&lt;p&gt;Yes, you can contact emergency services using a &lt;a href=&quot;https://www.vodafone.com.au/about/legal/devices&quot;&gt;Vodafone approved device&lt;/a&gt;. Just make sure you have the latest iOS or Android &lt;a href=&quot;https://devices.vodafone.com.au/?genericInstruction=update-phone-software&quot;&gt;software update&lt;/a&gt; and VoLTE (Voice over LTE) is enabled to support emergency calls. &lt;a href=&quot;https://www.vodafone.com.au/support/network/volte&quot;&gt;Find out how to enable VoLTE&lt;/a&gt;.&lt;/p&gt;"
+            },
+            {
+                "title": "Can I use my eSIM enabled phone with a SIM Only plan?",
+                "description": "&lt;p&gt;Yes, you can use your eSIM enabled phone with our SIM Only plans.&lt;/p&gt;&lt;p&gt;An eSIM, as opposed to a physical SIM, is a SIM that&rsquo;s already embedded into selected mobile phones and tablets and allows you to use up to 5 different plans on the same device.&lt;/p&gt;&lt;p&gt;For example, you&rsquo;ll be able to use one plan for business and another plan for personal use. For more on how to manage your eSIM, check out our &lt;a href=&quot;https://www.vodafone.com.au/support/device/esim&quot;&gt;support page&lt;/a&gt;.&lt;/p&gt;"
+            },
+            {
+                "title": "Can I save if I have multiple plans under one account?",
+                "description": "&lt;p&gt;Yes. You can save $5/mth on your second eligible mobile plan, and $15/mth on each one after that when you bundle under one account and stay connected. T&amp;amp;C apply.&lt;/p&gt;"
+            },
+            {
+                "title": "What is a SIM Only Plan?",
+                "description": "&lt;p&gt;Also known as BYO plans, our SIM Only Plans are perfect if you already have your own phone. The plans come with heaps of data to use in Australia, unlimited standard national calls and text, and selected plans come with standard international call minutes.&lt;/p&gt;&lt;p&gt;With a SIM Only Plan, you&rsquo;ll only be paying for your plan cost each month without any device repayment fees.&lt;/p&gt;"
+            },
+            {
+                "title": "Can I share data from my Vodafone Infinite Plans with other Vodafone plans?",
+                "description": "&lt;p&gt;Yes. Data sharing is available with up to 10 services and only the included data is shareable with other Vodafone Infinite (excluding Ultra+ Plan), Vodafone BYOD plans or Plus Plans. Excludes data capped at speeds up to 1.5, 2, 10 or 25Mbps. Data is for use in Australia. T&amp;amp;C apply.&lt;/p&gt;"
+            },
+            {
+                "title": "Can I hotspot or tether from my phone to other devices?",
+                "description": "&lt;p&gt;Yes, you can hotspot or tether from your phone to other devices. However, hotspotting or tethering isn&rsquo;t intended to be used as a substitute for home internet.&nbsp;&lt;/p&gt;&lt;p&gt;A hotspot is a Wi-Fi connection that you access to connect to the internet on your phone, tablet, computer or other compatible device. Tethering is when you use your device&rsquo;s mobile data to connect a phone, tablet, computer or other compatible device to the internet via Wi-Fi or a USB cable.&lt;/p&gt;"
+            },
+            {
+                "title": "What is personal use?",
+                "description": "&lt;p&gt;Personal use means you can use the data on your own mobile phone, and to other devices personal to you, such as your own tablet. It excludes using your mobile phone&rsquo;s data on the devices of members of your household or friends or colleagues.&lt;/p&gt;"
+            }
+        ]
+    },
+    "termsAndConditions": {
+        "termsConditionsDesc": "&lt;p&gt;&lt;b&gt;Data on Vodafone Infinite Plans&lt;/b&gt;&lt;br&gt;No excess data charges in Australia. All data for use in Australia within the Vodafone Network coverage area. Vodafone Infinite Plans include an included data allowance (which is data at the fastest speed the Vodafone network can deliver to you, depending on your handset and the time and place you are using data) which will be used first; thereafter data is available at speeds of up to 2Mbps until your next billing month. With 2Mbps you can check your socials, browse the web and stream music but is not suitable for HD video. For more information, check out our &lt;a href=&quot;https://www.vodafone.com.au/support/plans/speed-guide&quot;&gt;speed guide&lt;/a&gt;. Tethering is permitted from your mobile phone to your other personal devices only, but must not be used in a modem or as a substitute for a home internet service. Heavy data users may experience slower speeds than other users during busy periods. Actual speeds you reach will continually vary depending on many factors such as device capabilities, location, network congestion, network coverage, if you are roaming and if you are a heavy data user. &lt;a href=&quot;https://www.vodafone.com.au/about/legal/standard-form-of-agreement&quot;&gt;Fair Use Policy applies&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;b&gt;International minutes&lt;/b&gt;&lt;br&gt;Zone 1 and Zone 2 Destinations may change, see &lt;a href=&quot;http://www.vodafone.com.au/idd&quot;&gt;www.vodafone.com.au/idd&lt;/a&gt;&#8239;for list of current Destinations. Calls charged in per minute increments. Excludes non-standard calls and video calls. If you exhaust your Zone 2 allowance or you make a call to a country outside the Zone 1 or 2 included Destinations, you will be charged on top of your minimum monthly spend at our standard international Pay-As-You-Go rates these rates are subject to change, see&lt;a href=&quot;http://www.vodafone.com.au/idd&quot;&gt;&#8239; www.vodafone.com.au/idd&lt;/a&gt;&#8239;for current rates. Fair Use Policy applies. See &#8239;&lt;a href=&quot;http://vodafone.com.au/fairuse.&quot;&gt;vodafone.com.au/fairuse&lt;/a&gt;.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Bundle &amp;amp; Save&lt;/b&gt;&lt;br&gt;Bundle &amp;amp; Save plan fee discounts are available to new or existing customers who have two or more Eligible Plans under one billing account.&lt;br&gt;&lt;/p&gt;&lt;p&gt;Eligible Plans are: All Postpaid voice plans of $34 and above released on or after July 25 2018 and $43 Team Plans released on or after 17 August 2025 (excluding Assured Plan, Business Flex Plans, BYOD Plans, Promo Plans, Holding Plans, Hardship Plans, Extra Small Plan and Extra Large Plans).&lt;/p&gt;&lt;p&gt;One Eligible Plan on a billing account will be recognised as the primary service and it will be undiscounted (Primary Service). Each additional Eligible Plan added on the same billing account as the Primary Service will receive a discount as follows: $5 off the monthly plan fee of the second Eligible Plan, and $15 off the monthly plan fee for each subsequent Eligible Plan up to a maximum of 10 Eligible Plans. Note: only the monthly plan fee of an Eligible Plan will be discounted as noted above, and all other charges, including but not limited to the following are not discounted via Bundle and Save: MPP, APP or any Add On (booster, packs, roaming, Numbersync).&amp;nbsp; Standard Team Plan eligibility applies in order to be included in Bundle &amp;amp; Save discounts.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The Bundle &amp;amp; Save discount is available on a month-to-month basis, is calculated from the first eligible full bill cycle and updated monthly in line with the above discount structure as Eligible Plans are added or cancelled. If the Primary Service is cancelled, another Eligible Plan will automatically be allocated as the undiscounted Primary Service. If early exit fees apply to an Eligible Plan they are calculated using the undiscounted plan fee amount x months remaining, unless otherwise advised.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Available from 17th August 2025 and is not available in conjunction with any prior Bundle &amp;amp; Save discount construct. This offer is subject to change. Further information available at &lt;a href=&quot;https://www.vodafone.com.au/bundleandsave&quot;&gt;vodafone.com.au/bundleandsave&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Voicemail&lt;/b&gt;&lt;br&gt;Calls to 121 only. Visual Voicemail uses data.&lt;/p&gt;&lt;p&gt;&lt;b&gt;$5 Roaming&lt;/b&gt;&lt;br&gt;Use your included data, call and text allowances in Eligible Destinations for an additional $5 per day. However data capped at speeds up to 1.5, 2, 10 or 25Mbps is not accessible while $5 Roaming. Eligible Destinations are subject to change, see&#8239;current list and full details here &lt;a href=&quot;https://www.vodafone.com.au/mobile/international-roaming&quot;&gt;https://www.vodafone.com.au/mobile/international-roaming&lt;/a&gt;. Available to eligible customers, see terms for details specific to your plan. $5 Daily Charge is in addition to minimum monthly spend.&amp;nbsp; Once your included data is exhausted, additional data will be automatically added at a charge of $5/GB ($0.005/MB) (&ldquo;Additional Roaming Data&rdquo;). Additional Roaming Data expires at the end of your next billing period, is shareable (excludes plans with unlimited data which do not share data) and can only be used while in Eligible Destinations. Max 90 days of use in any calendar year.&amp;nbsp;Opt-out at any time, visit My Vodafone or call 1555. All roaming services are subject to network availability.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Network Satisfaction Guarantee&lt;/b&gt;&lt;br&gt;If you&rsquo;re a new customer and you&rsquo;ve signed up to any new postpaid mobile, mobile broadband or Home Internet plan and you don't love our network within the first 30 days of sign-up, or in the case of a Vodafone nbn&reg; or Vision plan within the first 30 days of service activation, you&rsquo;re welcome to cancel by calling&amp;nbsp;&lt;a href=&quot;tel:1300551198&quot;&gt;1300 551 198&lt;/a&gt;&amp;nbsp;(excludes upgrades and rate plan changes). You will only have to pay for those services you&rsquo;ve used or for charges incurred, that are not included in your plan, up until your number or nbn&reg; or Vision service is fully transferred and return your device or modem and equipment in original packaging with proof of purchase returned to a Vodafone (not dealer) store within 10 days of your claim. Where you have an individual plan, you can make one claim per year per person. Where you have multiple shared plans on your account, you can make one claim in relation to each plan, for up to 10 claims per account, per year per person. Accessories not refunded. This guarantee does not affect any other rights or remedies you may have under consumer law. Full terms and conditions on our&amp;nbsp;&lt;a href=&quot;https://sit-master.aem-auth.test.cms.df.services.vodafone.com.au/content/vha/network.html&quot;&gt;network page&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;b&gt;4G&lt;/b&gt;&lt;br&gt;You can use Vodafone 4G in our 4G areas. 4G in selected areas in Australia. Check your device is compatible to the coverage areas you will use. Actual speeds vary due to things like device capability, location &amp;amp; network congestion. See our&amp;nbsp;&lt;a href=&quot;https://www.vodafone.com.au/network/coverage-checker&quot;&gt;coverage checker&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Additional Service offer&lt;/b&gt;&lt;br&gt;Plan fee discount available to approved existing customers adding an additional eligible Vodafone Infinite Plan: Small or Small SIM Only Plan; Medium or Medium SIM Only Plan and Large or Large SIM Only Plan (&lsquo;Eligible Plan&rsquo;) to their account (&lsquo;Eligible Customer&rsquo;). Offer available from 31/10/2025 to 13/11/2025 (unless extended) (&lsquo;Promotional Period&rsquo;). Discount for Eligible Plans include: $14/mth off plan fees on Small or Small SIM Only Plan; $14/mth off plan fees on Medium or Medium SIM Only Plan; and $18/mth off plan fees on Large or Large SIM Only Plan (collectively, &lsquo;Discount&rsquo;). Discount is applied for the following period: (i) for customers with a Mobile Payment Plan (MPP), Discount is applied for the first 12, 24, or 36 months depending on your chosen MPP period, or (ii) for customers with a SIM Only plan, Discount is applied for your first 12 months (collectively, &lsquo;Discount Term&rsquo;). Discount is applied as a recurring monthly credit for the relevant Discount Term and on plan fees only. At the end of the relevant Discount Term, the minimum monthly spend will revert to the standard undiscounted monthly plan fees, or as otherwise notified by Vodafone. Discount forfeited if you cancel, change or upgrade your Eligible Plan. Existing customers who rate plan change from another plan are excluded from this offer. This offer can be used in conjunction with the following (if you are eligible): Bundle and Save, device discounts, gift-with-purchase (GWP) and bonus trade-in credit offers, but cannot be used with any other promotional offers, unless specified. Services subject to capabilities, network limitations &amp;amp; customer location. Offer not transferrable or redeemable for cash. Subject to change.&lt;/p&gt;&lt;p&gt;&lt;b&gt;5G&lt;/b&gt;&lt;br&gt;Vodafone&rsquo;s 5G Network is progressively being rolled out to selected parts of Sydney, Melbourne, Brisbane, Adelaide, Canberra and Perth. 5G approved device required, with an eligible Vodafone plan, in a Vodafone 5G Coverage area to access the 5G Network. In non-5G coverage areas, you&rsquo;ll automatically switch to our 4G networks. Actual speeds vary due to location &amp;amp; network congestion. Check coverage and for updates when 5G is coming to your area on our &lt;a href=&quot;https://www.vodafone.com.au/support/network/5g&quot;&gt;5G network support page&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Vodafone Infinite Data plans&lt;br&gt; &lt;/b&gt;Vodafone Data Plans are available for use with your own compatible device (modem or tablet) or are available if you simultaneously purchase a device (modem/ tablet) from Vodafone under a Mobile Payment Plan (&lsquo;MPP&rsquo;) of 12, 24 or 36 months duration (&ldquo;Commitment Period&rdquo;). For personal use by approved customers only. Inclusions expire after 1 month unless otherwise stated.&lt;/p&gt;&lt;p&gt;Minimum monthly spend is $20 or $40 (depending on your plan). Must connect for minimum one month. Total minimum cost is one month of your plan fees plus 100% of the undiscounted MPP instalments of your chosen device (if any). There is no Early Exit Fee on your Vodafone Infinite Data Plan, however, if you choose to cancel your Vodafone Infinite Data Plan, your MPP will also auto cancel and 100% of the remaining undiscounted device instalments will be applied to your next bill (if applicable). Recurring monthly plan fee charged until the end of the month in which you cancel.&lt;/p&gt;&lt;p&gt;&lt;b&gt;New connections in select postcodes &ndash; save an additional $6/mth or $1/mth&lt;br&gt; &lt;/b&gt;Plan fee discount available to both (i) approved new customers with an eligible Vodafone billing address in a select postcode signing up to an eligible Vodafone Infinite Plan: Small or Small SIM Only Plan; Medium or Medium SIM Only Plan; and Large or Large SIM Only Plan (&lsquo;Eligible Plan&rsquo;); and (ii) approved existing customers with an eligible Vodafone billing address in a select postcode adding an additional Eligible Plan to their account (&lsquo;Eligible Customers&rsquo;). Customers who do not have a Vodafone billing address with a select postcode are not eligible for this offer. Offer available from 12/09/2025, 10:00:01 PM to 13/11/2025 (unless extended) (&lsquo;Promotional Period&rsquo;). Discount for Eligible Plans include: $14/mth off plan fees on Small or Small SIM Only Plan; $14/mth off plan fees on Medium or Medium SIM Only Plan; and $18/mth off plan fees on Large or Large SIM Only Plan (collectively, &lsquo;Discount&rsquo;). Discount is applied for the following period: (i) for customers with a Mobile Payment Plan (MPP), Discount is applied for the first 12, 24, or 36 months depending on your chosen MPP period, or (ii) for customers with a SIM Only plan, Discount is applied for your first 12 months (collectively, &lsquo;Discount Term&rsquo;). Discount is applied as a recurring monthly credit for the relevant Discount Term and on plan fees only. At the end of the relevant Discount Term, the minimum monthly spend will revert to the standard undiscounted monthly plan fees, or as otherwise notified by Vodafone. Discount available to customers signing up to a new or additional service only. Not available for handset upgrades. Discount forfeited if you cancel, change or upgrade your Eligible Plan. Existing customers who rate plan change from another plan are excluded from this offer.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Save $8/mth, $13/mth or $18/mth on plan fees&lt;br&gt; &lt;/b&gt;Plan fee discount available to both (i) approved new customers signing up to an eligible Vodafone Infinite Plan: Small or Small SIM Only Plan; Medium or Medium SIM Only Plan and Large or Large SIM Only Plan (&lsquo;Eligible Plan&rsquo;); (ii) approved existing customers adding an additional Eligible Plan to their account; and (iii) approved existing customers upgrading their handset and signing up to an Eligible Plan (&lsquo;Eligible Customers&rsquo;). Offer available from 12/09/2025, 10:00:01 PM to 13/11/2025 (unless extended) (&lsquo;Promotional Period&rsquo;). Discount for Eligible Plans include: $8/mth off plan fees on Small or Small SIM Only Plan; $13/mth off plan fees on Medium or Medium SIM Only Plan; and $18/mth off plan fees on Large or Large SIM Only Plan (collectively, &lsquo;Discount&rsquo;). Discount is applied for the following period: (i) for customers with a Mobile Payment Plan (MPP), Discount is applied for the first 12, 24, or 36 months depending on your chosen MPP period, or (ii) for customers with a SIM Only plan, Discount is applied for your first 12 months (collectively, &lsquo;Discount Term&rsquo;). Discount is applied as a recurring monthly credit for the relevant Discount Term and on plan fees only. At the end of the relevant Discount Term, the minimum monthly spend will revert to the standard undiscounted monthly plan fees, or as otherwise notified by Vodafone. Discount forfeited if you cancel, change or upgrade your Eligible Plan. Existing customers who rate plan change from another plan are excluded from this offer. This offer can be used in conjunction with the following (if you are eligible): Bundle and Save, device discounts, gift[1]with-purchase (GWP) and bonus trade-in credit offers, but cannot be used with any other promotional offer, unless specified. Services subject to capabilities, network limitations &amp;amp; customer location. Offer not transferrable or redeemable for cash. Subject to change.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Sharing data&lt;/b&gt;&lt;br&gt;If you have more than one Vodafone Infinite (excluding Ultra+ Plans), Vodafone BYOD, Plus, Team, Extra Large Plan, Vodafone Large Promo, Vodafone Extra Large Promo Plan or Vodafone Infinite Data Plans on your billing account, the included data allowances on those services will automatically combine into one pool which will be shared between eligible users. Data capped at speeds up to 1.5, 2, 10 or 25Mbps is not shareable. Data sharing is only available for up to 10 services. The data included in any other plan on your account which is not a Vodafone Infinite (excluding Ultra+ Plans), Vodafone BYOD, Plus, Team, Extra Large Plan, Vodafone Large Promo, Vodafone Extra Large Promo Plan or Vodafone Infinite Data Plan is not shareable with Vodafone Infinite (excluding Ultra+ Plans), Vodafone BYOD, Plus, Team, Extra Large Plan or Vodafone Infinite Data Plans and vice versa. You can find out which plans support sharing or you can opt-out of sharing altogether at any time by calling 1555.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Student International minutes&lt;br&gt; &lt;/b&gt;Unlimited standard international minutes (Zone 1) available to (i) approved students with a valid student ID and email signing up to a new eligible Vodafone Infinite Plan: Small or Small SIM Only Plan (&lsquo;Eligible Plan&rsquo;); (ii) students adding an additional Eligible Plan to their account and (iii) students upgrading their handset and signing up to an Eligible Plan in-store or via customer care channels only (handset upgrades are not available via digital channel) (&lsquo;Eligible Customers&rsquo;). Offer available from 23/01/2025 to 13/11/2025 (unless extended) (&lsquo;Promotional Period&rsquo;). Unlimited standard international minutes (Zone 1) will be applied monthly for the duration you remain continuously connected to the Eligible Plan and is forfeited if you cancel, change or upgrade your Eligible Plan. Existing customers who rate plan change from another plan are excluded from this offer. This offer can be used in conjunction with the following (if you are eligible): Bundle and Save, device discounts, gift-with-purchase (GWP), bonus trade-in credit and other student offers, but cannot be used with any other promotional offer, unless specified. This Data is for use in Australia. Services subject to capabilities, network limitations &amp;amp; customer location. Offer not transferrable or redeemable for cash. Subject to change.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Vodafone Infinite Plans&lt;br&gt; &lt;/b&gt;Vodafone Infinite Small, Medium and Large Plans are available for use with your own compatible phone or available when you simultaneously purchase a phone from Vodafone under a Mobile Payment Plan (&lsquo;MPP&rsquo;) of 12, 24 or 36 months duration (&ldquo;Commitment Period&rdquo;). For personal use by approved customers only. Inclusions expire after 1 month unless otherwise stated. Plan excludes Premium Services, 1223, &amp;amp; 1225 directory services, 123 Ask-Us-Anything, International Roaming, content purchases, call screen and charges for additional data and additional standard international calls.&lt;/p&gt;&lt;p&gt;Minimum monthly spend is $53, $63 or $73 + monthly phone MPP cost (if any). Must connect for minimum one month. Total minimum cost is one month of your plan fees plus 100% of the undiscounted MPP instalments of your chosen device (if any). If you choose to cancel your Vodafone Infinite Month to Month Plan, your MPP (if any) will auto cancel and 100% of the remaining undiscounted MPP instalments will be applied to your next bill. Recurring monthly plan fee charged until the end of the month in which you cancel.&lt;/p&gt;"
+    },
+    "planListing": {
+        "plans": [
+            {
+                "id": "AU12749",
+                "planId": "AU12749",
+                "order": 1,
+                "planName": "Small Plan",
+                "customPlanName": "",
+                "planDescription": "&lt;p&gt;First use&nbsp;60GB, then keep using data in Oz at &lt;vha-modal-trigger type=&quot;plain&quot; id=&quot;throttled&quot;&gt;slower speeds&lt;/vha-modal-trigger&gt;.&lt;/p&gt;",
+                "planTenure": "",
+                "planTitle": "No excess data charges",
+                "subHeadingPrimary": "",
+                "subHeadingSecondary": "per month",
+                "planCardSubText": [
+                    {
+                        "secondarySubText": "&lt;p&gt;per month&lt;br /&gt;for first 12 months,&lt;br /&gt;then $69&lt;/p&gt;",
+                        "primarySubText": "",
+                        "id": "$9_OFF_STUD_LARGE_SIMO_12JAN24_01"
+                    },
+                    {
+                        "secondarySubText": "&lt;p&gt;per month for first 12 months then $69 per month&lt;/p&gt;",
+                        "primarySubText": "",
+                        "id": "$10_OFF_ADJ_GEO_SIM_PRM_TOOLKIT_01_2_AUG_01"
+                    },
+                    {
+                        "secondarySubText": "&lt;p&gt;for the first 12 months, then $53/mth&lt;/p&gt;",
+                        "primarySubText": "",
+                        "id": "$4_OFF_ADJ_GEO_SIM_PRM_TOOLKIT_1_AUG_25_01"
+                    },
+                    {
+                        "secondarySubText": "&lt;p&gt;for the first 12 months, then $53/mth&lt;/p&gt;",
+                        "primarySubText": "",
+                        "id": "$10_SMALL_SIMO_12M_CONNECT_ONLY_NATION_01"
+                    },
+                    {
+                        "secondarySubText": "&lt;p&gt;for the first 12 months, then $53/mth&lt;/p&gt;",
+                        "primarySubText": "",
+                        "id": "$10_SMALL_IMAGINE_CONNECT_NATION_01"
+                    },
+                    {
+                        "secondarySubText": "&lt;p&gt;for the first 12 months, then $53/mth&lt;/p&gt;",
+                        "primarySubText": "",
+                        "id": "$14_STUD_SMALL_CONSOLIDATED_IMAGINE_01"
+                    },
+                    {
+                        "secondarySubText": "&lt;p&gt;for the first 12 months, then $53/mth&lt;/p&gt;",
+                        "primarySubText": "",
+                        "id": "$8_SMALL_NPI25_CNT_SIM_NATION_01"
+                    },
+                    {
+                        "secondarySubText": "&lt;p&gt;for the first 12 months, then $53/mth&lt;/p&gt;",
+                        "primarySubText": "",
+                        "id": "$6_SMALL_NPI25_ADJ_ONLINE_BTL_SIM_12_SEP_25_01"
+                    },
+                    {
+                        "secondarySubText": "&lt;p&gt;for the first 12 months, then $53/mth&lt;/p&gt;",
+                        "primarySubText": "",
+                        "id": "$6_STUD_NPI_SMALL_SIMO_IMAGINE_01"
+                    }
+                ],
+                "ctaLabel": "Add to cart",
+                "heroLabel": "",
+                "heroOfferId": "",
+                "secondaryHeroLabel": "",
+                "cisLabel": "Critical Information Summary",
+                "cisUrl": "https://www.vodafone.com.au/cis/mobile-phone-plans/vodafone-infinite-plans/au12749-au12750-au12751-small-medium-large-plan.pdf",
+                "planExtraInfo": "",
+                "isPlanEsimSimo": true,
+                "isTrialPlan": false,
+                "isInterimPlan": false,
+                "isDuplicatePlan": false,
+                "hideDiscountFlag": false,
+                "isExistingCustomer": false,
+                "planImage": {
+                    "imageUrl": "https://www.vodafone.com.au/images/icons/Cart-vodafone-sim-card-s.png",
+                    "altText": "Small Plan"
+                },
+                "calloutInfo": {
+                    "title": "",
+                    "description": "",
+                    "iconPath": ""
+                },
+                "speedBoostCalloutInfo": {
+                    "title": "",
+                    "description": "",
+                    "iconPath": ""
+                },
+                "planData": "60GB",
+                "planProductName": "Small Plan",
+                "isBundleAndSaveEligible": false,
+                "planSubType": "Voice",
+                "ctaDisabledLabel": "",
+                "ctaSelectedLabel": "",
+                "contactMethod": "chat",
+                "contactLabel": "",
+                "contactInfo": "",
+                "expandPlanByDefault": false,
+                "expandPlanOnMobile": false,
+                "contractTerm": 1,
+                "recurringCharge": 53,
+                "discountedRecurringCharge": 45,
+                "planCategory": "Postpaid",
+                "ratesLabel": "&lt;p&gt;&lt;vha-modal-trigger type=&quot;plain&quot; id=&quot;simoinfiniterates&quot;&gt;Rates and charges&lt;/vha-modal-trigger&gt;&lt;/p&gt;",
+                "ratesUrl": "",
+                "dataSharing": "Omega",
+                "eligibleContractTerms": [],
+                "eligibleDeviceProductCodes": [],
+                "increasedBoostConnectionSpeed": "",
+                "promotions": [
+                    {
+                        "title": "Students International calls offer",
+                        "description": "&lt;p&gt;Students with a valid student ID get unlimited standard international calls (Zone 1) each month when you stay connected to this plan. New connections, 18+ only. Ends&amp;nbsp;04/12/25 (unless extended). T&amp;amp;C apply.&lt;/p&gt;",
+                        "promotionCode": "UNL_ZONE1_STUD_SMALL_IMAGINE_01",
+                        "adjustmentValue": null,
+                        "isASD": false,
+                        "isAppOffer": false,
+                        "iconUrl": "https://www.vodafone.com.au/images/icons/international-minutes.svg",
+                        "endDate": "2025-12-04T13:00:00.000Z",
+                        "tradeInAndSave": false,
+                        "bonusTradeInCredit": "",
+                        "cartOfferText": "",
+                        "isDisplayOnly": true
+                    },
+                    {
+                        "title": "Save $8/mth on plan fees",
+                        "description": "&lt;p&gt;Save $8/mth on plan fees for the first 12 months on a Small SIM Only plan. Ends 13/11 (unless extended). T&amp;amp;C apply.&lt;/p&gt;",
+                        "promotionCode": "$8_SMALL_NPI25_CNT_SIM_NATION_01",
+                        "adjustmentValue": 8,
+                        "isASD": false,
+                        "isAppOffer": false,
+                        "iconUrl": "https://www.vodafone.com.au/images/digital-labs-campaigns/dollar-sign.svg",
+                        "endDate": "2025-11-13T13:00:00.000Z",
+                        "tradeInAndSave": false,
+                        "bonusTradeInCredit": "",
+                        "cartOfferText": "&lt;p&gt;for the first 12 months, then $53/mth&lt;/p&gt;",
+                        "isDisplayOnly": false
+                    }
+                ],
+                "inclusions": [
+                    {
+                        "description": "&lt;p&gt;First use&amp;nbsp;60GB, then keep using data in Oz at&amp;nbsp;slower speeds&lt;/p&gt;",
+                        "simpleDescription": "",
+                        "planId": "",
+                        "title": "&lt;p&gt;No excess data charges&lt;/p&gt;",
+                        "iconUrl": "https://www.vodafone.com.au/images/icons/tick-or-solved-green.svg",
+                        "hideFromCart": false,
+                        "eligibleBrands": null,
+                        "forMobile": false,
+                        "forTablet": false,
+                        "name": "",
+                        "forWatch": false
+                    },
+                    {
+                        "description": "&lt;p&gt;No lock-in contract&lt;/p&gt;",
+                        "simpleDescription": "",
+                        "planId": "",
+                        "title": "Month to month",
+                        "iconUrl": "https://www.vodafone.com.au/images/icons/tick-or-solved-green.svg",
+                        "hideFromCart": false,
+                        "eligibleBrands": null,
+                        "forMobile": false,
+                        "forTablet": false,
+                        "name": "",
+                        "forWatch": false
+                    },
+                    {
+                        "description": "&lt;p&gt;Unlimited standard national calls and texts&lt;/p&gt;",
+                        "simpleDescription": "",
+                        "planId": "",
+                        "title": "National calls and texts",
+                        "iconUrl": "https://www.vodafone.com.au/images/icons/tick-or-solved-green.svg",
+                        "hideFromCart": false,
+                        "eligibleBrands": null,
+                        "forMobile": false,
+                        "forTablet": false,
+                        "name": "",
+                        "forWatch": false
+                    },
+                    {
+                        "description": "&lt;p&gt;Unlimited standard international texts&lt;/p&gt;",
+                        "simpleDescription": "",
+                        "planId": "AU12749",
+                        "title": "International texts",
+                        "iconUrl": "https://www.vodafone.com.au/images/icons/tick-or-solved-green.svg",
+                        "hideFromCart": false,
+                        "eligibleBrands": null,
+                        "forMobile": false,
+                        "forTablet": false,
+                        "name": "",
+                        "forWatch": false
+                    }
+                ],
+                "footnote": "",
+                "hideWasLabel": false,
+                "hideWasDataLabel": false,
+                "planIconImage": "https://www.vodafone.com.au/images/icons/tick-or-solved-green.svg",
+                "planIconImageAltText": "",
+                "speedBoostSubtext": "",
+                "planIcon": ""
+            },
+            {
+                "id": "AU12750",
+                "planId": "AU12750",
+                "order": 2,
+                "planName": "Medium Plan",
+                "customPlanName": "",
+                "planDescription": "&lt;p&gt;First use&nbsp;200GB, then keep using data in Oz at &lt;vha-modal-trigger type=&quot;plain&quot; id=&quot;throttled&quot;&gt;slower speeds&lt;/vha-modal-trigger&gt;.&lt;/p&gt;",
+                "planTenure": "",
+                "planTitle": "No excess data charges",
+                "subHeadingPrimary": "",
+                "subHeadingSecondary": "per month",
+                "planCardSubText": [
+                    {
+                        "secondarySubText": "&lt;p&gt;per month&lt;br /&gt;for first 12 months,&lt;br /&gt;then $69&lt;/p&gt;",
+                        "primarySubText": "",
+                        "id": "$9_OFF_STUD_LARGE_SIMO_12JAN24_01"
+                    },
+                    {
+                        "secondarySubText": "&lt;p&gt;per month for first 12 months then $69 per month&lt;/p&gt;",
+                        "primarySubText": "",
+                        "id": "$10_OFF_ADJ_GEO_SIM_PRM_TOOLKIT_01_2_AUG_01"
+                    },
+                    {
+                        "secondarySubText": "&lt;p&gt;for the first 12 months, then $63/mth&lt;/p&gt;",
+                        "primarySubText": "",
+                        "id": "$4_OFF_ADJ_GEO_SIM_PRM_TOOLKIT_1_AUG_25_02"
+                    },
+                    {
+                        "secondarySubText": "&lt;p&gt;for the first 12 months, then $63/mth&lt;/p&gt;",
+                        "primarySubText": "",
+                        "id": "$10_MEDIUM_SIMO_12M_CONNECT_ONLY_NATION_02"
+                    },
+                    {
+                        "secondarySubText": "&lt;p&gt;for first 12 months, then $63/mth&lt;/p&gt;",
+                        "primarySubText": "",
+                        "id": "$10_MEDIUM_IMAGINE_CONNECT_NATION_01"
+                    },
+                    {
+                        "secondarySubText": "&lt;p&gt;for first 12 months, then $63/mth&lt;/p&gt;",
+                        "primarySubText": "",
+                        "id": "$14_STUD_MEDIUM_CONSOLIDATED_IMAGINE_01"
+                    },
+                    {
+                        "secondarySubText": "&lt;p&gt;for the first 12 months, then $63/mth&lt;/p&gt;",
+                        "primarySubText": "",
+                        "id": "$13_MEDIUM_NPI25_CNT_SIM_NATION_01"
+                    },
+                    {
+                        "secondarySubText": "&lt;p&gt;for the first 12 months, then $63/mth&lt;/p&gt;",
+                        "primarySubText": "",
+                        "id": "$1_MEDIUM_NPI25_ADJ_ONLINE_BTL_SIM_12_SEP_25_01"
+                    },
+                    {
+                        "secondarySubText": "&lt;p&gt;for the first 12 months, then $63/mth&lt;/p&gt;",
+                        "primarySubText": "",
+                        "id": "$1_STUD_NPI_MEDIUM_SIMO_IMAGINE_01"
+                    }
+                ],
+                "ctaLabel": "Add to cart",
+                "heroLabel": "",
+                "heroOfferId": "",
+                "secondaryHeroLabel": "",
+                "cisLabel": "Critical Information Summary",
+                "cisUrl": "https://www.vodafone.com.au/cis/mobile-phone-plans/vodafone-infinite-plans/au12749-au12750-au12751-small-medium-large-plan.pdf",
+                "planExtraInfo": "",
+                "isPlanEsimSimo": true,
+                "isTrialPlan": false,
+                "isInterimPlan": false,
+                "isDuplicatePlan": false,
+                "hideDiscountFlag": false,
+                "isExistingCustomer": false,
+                "planImage": {
+                    "imageUrl": "https://www.vodafone.com.au/images/icons/Cart-vodafone-sim-card-s.png",
+                    "altText": "Medium Plan"
+                },
+                "calloutInfo": {
+                    "title": "",
+                    "description": "",
+                    "iconPath": ""
+                },
+                "speedBoostCalloutInfo": {
+                    "title": "",
+                    "description": "",
+                    "iconPath": ""
+                },
+                "planData": "200GB",
+                "planProductName": "Medium Plan",
+                "isBundleAndSaveEligible": false,
+                "planSubType": "Voice",
+                "ctaDisabledLabel": "",
+                "ctaSelectedLabel": "",
+                "contactMethod": "chat",
+                "contactLabel": "",
+                "contactInfo": "",
+                "expandPlanByDefault": false,
+                "expandPlanOnMobile": false,
+                "contractTerm": 1,
+                "recurringCharge": 63,
+                "discountedRecurringCharge": 50,
+                "planCategory": "Postpaid",
+                "ratesLabel": "&lt;p&gt;&lt;vha-modal-trigger type=&quot;plain&quot; id=&quot;simoinfiniterates&quot;&gt;Rates and charges&lt;/vha-modal-trigger&gt;&lt;/p&gt;",
+                "ratesUrl": "",
+                "dataSharing": "Omega",
+                "eligibleContractTerms": [],
+                "eligibleDeviceProductCodes": [],
+                "increasedBoostConnectionSpeed": "",
+                "promotions": [
+                    {
+                        "title": "Save $13/mth on plan fees",
+                        "description": "&lt;p&gt;Save $13/mth on plan fees for the first 12 months on a Medium SIM Only plan. Ends 13/11 (unless extended). T&amp;amp;C apply.&lt;/p&gt;",
+                        "promotionCode": "$13_MEDIUM_NPI25_CNT_SIM_NATION_01",
+                        "adjustmentValue": 13,
+                        "isASD": false,
+                        "isAppOffer": false,
+                        "iconUrl": "https://www.vodafone.com.au/images/digital-labs-campaigns/dollar-sign.svg",
+                        "endDate": "2025-11-13T13:00:00.000Z",
+                        "tradeInAndSave": false,
+                        "bonusTradeInCredit": "",
+                        "cartOfferText": "&lt;p&gt;for the first 12 months, then $63/mth&lt;/p&gt;",
+                        "isDisplayOnly": false
+                    }
+                ],
+                "inclusions": [
+                    {
+                        "description": "&lt;p&gt;First use&amp;nbsp;200GB, then keep using data in Oz at&amp;nbsp;slower speeds&lt;/p&gt;",
+                        "simpleDescription": "",
+                        "planId": "",
+                        "title": "&lt;p&gt;No excess data charges&lt;/p&gt;",
+                        "iconUrl": "https://www.vodafone.com.au/images/icons/tick-or-solved-green.svg",
+                        "hideFromCart": false,
+                        "eligibleBrands": null,
+                        "forMobile": false,
+                        "forTablet": false,
+                        "name": "",
+                        "forWatch": false
+                    },
+                    {
+                        "description": "&lt;p&gt;No lock-in contract&lt;/p&gt;",
+                        "simpleDescription": "",
+                        "planId": "",
+                        "title": "Month to month",
+                        "iconUrl": "https://www.vodafone.com.au/images/icons/tick-or-solved-green.svg",
+                        "hideFromCart": false,
+                        "eligibleBrands": null,
+                        "forMobile": false,
+                        "forTablet": false,
+                        "name": "",
+                        "forWatch": false
+                    },
+                    {
+                        "description": "&lt;p&gt;Unlimited standard national calls and texts&lt;/p&gt;",
+                        "simpleDescription": "",
+                        "planId": "",
+                        "title": "National calls and texts",
+                        "iconUrl": "https://www.vodafone.com.au/images/icons/tick-or-solved-green.svg",
+                        "hideFromCart": false,
+                        "eligibleBrands": null,
+                        "forMobile": false,
+                        "forTablet": false,
+                        "name": "",
+                        "forWatch": false
+                    },
+                    {
+                        "description": "&lt;p&gt;Unlimited standard minutes from Australia to &lt;vha-modal-trigger type=&quot;plain&quot; id=&quot;zone1&quot; style=&quot;color: black;&quot;&gt;Zone 1&lt;/vha-modal-trigger&gt;,&nbsp;300 mins to &lt;vha-modal-trigger type=&quot;plain&quot; id=&quot;zone2&quot; style=&quot;color: black;&quot;&gt;Zone 2&lt;/vha-modal-trigger&gt; and unlimited standard international texts&lt;/p&gt;",
+                        "simpleDescription": "",
+                        "planId": "AU12750",
+                        "title": "International calls and texts",
+                        "iconUrl": "https://www.vodafone.com.au/images/icons/tick-or-solved-green.svg",
+                        "hideFromCart": false,
+                        "eligibleBrands": null,
+                        "forMobile": false,
+                        "forTablet": false,
+                        "name": "",
+                        "forWatch": false
+                    }
+                ],
+                "footnote": "",
+                "hideWasLabel": false,
+                "hideWasDataLabel": false,
+                "planIconImage": "https://www.vodafone.com.au/images/icons/tick-or-solved-green.svg",
+                "planIconImageAltText": "",
+                "speedBoostSubtext": "",
+                "planIcon": ""
+            },
+            {
+                "id": "AU12751",
+                "planId": "AU12751",
+                "order": 3,
+                "planName": "Large Plan",
+                "customPlanName": "",
+                "planDescription": "&lt;p&gt;First use&nbsp;400GB, then keep using data in Oz at &lt;vha-modal-trigger type=&quot;plain&quot; id=&quot;throttled&quot;&gt;slower speeds&lt;/vha-modal-trigger&gt;.&lt;/p&gt;",
+                "planTenure": "",
+                "planTitle": "No excess data charges",
+                "subHeadingPrimary": "",
+                "subHeadingSecondary": "per month",
+                "planCardSubText": [
+                    {
+                        "secondarySubText": "&lt;p&gt;per month&lt;br /&gt;for first 12 months,&lt;br /&gt;then $69&lt;/p&gt;",
+                        "primarySubText": "",
+                        "id": "$9_OFF_STUD_LARGE_SIMO_12JAN24_01"
+                    },
+                    {
+                        "secondarySubText": "&lt;p&gt;per month for first 12 months then $69 per month&lt;/p&gt;",
+                        "primarySubText": "",
+                        "id": "$10_OFF_ADJ_GEO_SIM_PRM_TOOLKIT_01_2_AUG_01"
+                    },
+                    {
+                        "secondarySubText": "&lt;p&gt;for the first 12 months, then $73/mth&lt;/p&gt;",
+                        "primarySubText": "",
+                        "id": "$4_OFF_ADJ_GEO_SIM_PRM_TOOLKIT_1_AUG_25_03"
+                    },
+                    {
+                        "secondarySubText": "&lt;p&gt;for the first 12 months, then $73/mth&lt;/p&gt;",
+                        "primarySubText": "",
+                        "id": "$10_LARGE_SIMO_12M_CONNECT_ONLY_NATION_03"
+                    },
+                    {
+                        "secondarySubText": "&lt;p&gt;for first 12 months, then $73/mth&lt;/p&gt;",
+                        "primarySubText": "",
+                        "id": "$10_LARGE_IMAGINE_CONNECT_NATION_01"
+                    },
+                    {
+                        "secondarySubText": "&lt;p&gt;for first 12 months, then $73/mth&lt;/p&gt;",
+                        "primarySubText": "",
+                        "id": "$14_STUD_LARGE_CONSOLIDATED_IMAGINE_01"
+                    },
+                    {
+                        "secondarySubText": "&lt;p&gt;for the first 12 months, then $73/mth&lt;/p&gt;",
+                        "primarySubText": "",
+                        "id": "$18_LARGE_NPI25_CNT_SIM_NATION_01"
+                    }
+                ],
+                "ctaLabel": "Add to cart",
+                "heroLabel": "",
+                "heroOfferId": "",
+                "secondaryHeroLabel": "",
+                "cisLabel": "Critical Information Summary",
+                "cisUrl": "https://www.vodafone.com.au/cis/mobile-phone-plans/vodafone-infinite-plans/au12749-au12750-au12751-small-medium-large-plan.pdf",
+                "planExtraInfo": "",
+                "isPlanEsimSimo": true,
+                "isTrialPlan": false,
+                "isInterimPlan": false,
+                "isDuplicatePlan": false,
+                "hideDiscountFlag": false,
+                "isExistingCustomer": false,
+                "planImage": {
+                    "imageUrl": "https://www.vodafone.com.au/images/icons/Cart-vodafone-sim-card-s.png",
+                    "altText": "Large Plan"
+                },
+                "calloutInfo": {
+                    "title": "",
+                    "description": "",
+                    "iconPath": ""
+                },
+                "speedBoostCalloutInfo": {
+                    "title": "",
+                    "description": "",
+                    "iconPath": ""
+                },
+                "planData": "400GB",
+                "planProductName": "Large Plan",
+                "isBundleAndSaveEligible": false,
+                "planSubType": "Voice",
+                "ctaDisabledLabel": "",
+                "ctaSelectedLabel": "",
+                "contactMethod": "chat",
+                "contactLabel": "",
+                "contactInfo": "",
+                "expandPlanByDefault": false,
+                "expandPlanOnMobile": false,
+                "contractTerm": 1,
+                "recurringCharge": 73,
+                "discountedRecurringCharge": 55,
+                "planCategory": "Postpaid",
+                "ratesLabel": "&lt;p&gt;&lt;vha-modal-trigger type=&quot;plain&quot; id=&quot;simoinfiniterates&quot;&gt;Rates and charges&lt;/vha-modal-trigger&gt;&lt;/p&gt;",
+                "ratesUrl": "",
+                "dataSharing": "Omega",
+                "eligibleContractTerms": [],
+                "eligibleDeviceProductCodes": [],
+                "increasedBoostConnectionSpeed": "",
+                "promotions": [
+                    {
+                        "title": "Save $18/mth on plan fees",
+                        "description": "&lt;p&gt;Save $18/mth on plan fees for the first 12 months on a Large SIM Only plan. Ends 13/11 (unless extended). T&amp;amp;C apply.&lt;/p&gt;",
+                        "promotionCode": "$18_LARGE_NPI25_CNT_SIM_NATION_01",
+                        "adjustmentValue": 18,
+                        "isASD": false,
+                        "isAppOffer": false,
+                        "iconUrl": "https://www.vodafone.com.au/images/digital-labs-campaigns/dollar-sign.svg",
+                        "endDate": "2025-11-13T13:00:00.000Z",
+                        "tradeInAndSave": false,
+                        "bonusTradeInCredit": "",
+                        "cartOfferText": "&lt;p&gt;for the first 12 months, then $73/mth&lt;/p&gt;",
+                        "isDisplayOnly": false
+                    }
+                ],
+                "inclusions": [
+                    {
+                        "description": "&lt;p&gt;First use&amp;nbsp;400GB, then keep using data in Oz at&amp;nbsp;slower speeds&lt;/p&gt;",
+                        "simpleDescription": "",
+                        "planId": "",
+                        "title": "&lt;p&gt;No excess data charges&lt;/p&gt;",
+                        "iconUrl": "https://www.vodafone.com.au/images/icons/tick-or-solved-green.svg",
+                        "hideFromCart": false,
+                        "eligibleBrands": null,
+                        "forMobile": false,
+                        "forTablet": false,
+                        "name": "",
+                        "forWatch": false
+                    },
+                    {
+                        "description": "&lt;p&gt;No lock-in contract&lt;/p&gt;",
+                        "simpleDescription": "",
+                        "planId": "",
+                        "title": "Month to month",
+                        "iconUrl": "https://www.vodafone.com.au/images/icons/tick-or-solved-green.svg",
+                        "hideFromCart": false,
+                        "eligibleBrands": null,
+                        "forMobile": false,
+                        "forTablet": false,
+                        "name": "",
+                        "forWatch": false
+                    },
+                    {
+                        "description": "&lt;p&gt;Unlimited standard national calls and texts&lt;/p&gt;",
+                        "simpleDescription": "",
+                        "planId": "",
+                        "title": "National calls and texts",
+                        "iconUrl": "https://www.vodafone.com.au/images/icons/tick-or-solved-green.svg",
+                        "hideFromCart": false,
+                        "eligibleBrands": null,
+                        "forMobile": false,
+                        "forTablet": false,
+                        "name": "",
+                        "forWatch": false
+                    },
+                    {
+                        "description": "&lt;p&gt;Unlimited standard minutes from Australia to &lt;vha-modal-trigger type=&quot;plain&quot; id=&quot;zone1&quot; style=&quot;color: black;&quot;&gt;Zone 1&lt;/vha-modal-trigger&gt;,&nbsp;300 mins to &lt;vha-modal-trigger type=&quot;plain&quot; id=&quot;zone2&quot; style=&quot;color: black;&quot;&gt;Zone 2&lt;/vha-modal-trigger&gt; and unlimited standard international texts&lt;/p&gt;",
+                        "simpleDescription": "",
+                        "planId": "AU12751",
+                        "title": "International calls and texts",
+                        "iconUrl": "https://www.vodafone.com.au/images/icons/tick-or-solved-green.svg",
+                        "hideFromCart": false,
+                        "eligibleBrands": null,
+                        "forMobile": false,
+                        "forTablet": false,
+                        "name": "",
+                        "forWatch": false
+                    }
+                ],
+                "footnote": "",
+                "hideWasLabel": false,
+                "hideWasDataLabel": false,
+                "planIconImage": "https://www.vodafone.com.au/images/icons/tick-or-solved-green.svg",
+                "planIconImageAltText": "",
+                "speedBoostSubtext": "",
+                "planIcon": ""
+            }
+        ],
+        "usps": [
+            {
+                "imageUrl": "https://www.vodafone.com.au/images/icons/5g-red.svg",
+                "description": "&lt;p&gt;Use your 5G approved device in a 5G coverage area on Vodafone&rsquo;s 5G network, which is rolling out to selected areas of major Australian cities. &lt;a href=&quot;https://www.vodafone.com.au/network/coverage-checker&quot; target=&quot;_blank&quot;&gt;Check your coverage&lt;/a&gt;.&lt;/p&gt;",
+                "title": "Our 5G network",
+                "isNewConnect": true,
+                "isUpgrade": true
+            },
+            {
+                "imageUrl": "https://www.vodafone.com.au/images/icons/like-red.svg",
+                "description": "&lt;p&gt;You'll love our network or get your money back. Try us for 30 days with our &lt;a href=&quot;https://www.vodafone.com.au/network&quot;&gt;Network Satisfaction Guarantee&lt;/a&gt;. Prepaid excluded. T&amp;amp;C apply.&lt;/p&gt;",
+                "title": "Network Satisfaction Guarantee",
+                "isNewConnect": true,
+                "isUpgrade": false
+            },
+            {
+                "imageUrl": "https://www.vodafone.com.au/images/icons/roaming-red.svg",
+                "description": "&lt;p&gt;Use your included data, calls and texts in over 100 destinations for $5 extra a day. Destinations may vary. Excludes speed capped data. T&amp;amp;C apply. &lt;a href=&quot;https://www.vodafone.com.au/mobile/international-roaming&quot;&gt;Find out more.&lt;/a&gt;&lt;/p&gt;",
+                "title": "$5 Roaming",
+                "isNewConnect": true,
+                "isUpgrade": true
+            },
+            {
+                "imageUrl": "https://www.vodafone.com.au/images/icons/rank-virtuoso-red.svg",
+                "description": "&lt;p&gt;Vodafone customers enjoy presale ticket access to local and global artists touring Australia. T&amp;amp;C apply. &lt;a href=&quot;https://www.vodafone.com.au/ticket&quot;&gt;Find out more&lt;/a&gt;.&lt;/p&gt;",
+                "title": "Jump the queue to your next concert",
+                "isNewConnect": true,
+                "isUpgrade": true
+            }
+        ],
+        "title": "Why Choose Vodafone",
+        "description": "",
+        "planListingBackgroundColor": "#F4F4F4",
+        "planListingTheme": "light",
+        "iconTilesVariant": "biggie",
+        "iconTilesBgColor": "#f4f4f4",
+        "inlineBanners": [
+            {
+                "customBgColor": "#333333",
+                "ctaType": "",
+                "callbackQueueName": "",
+                "bannerId": "bottom-banner",
+                "description": "&lt;p&gt;Students, get 200GB for $39/mth for the first 12 mths, then $53/mth on a Small SIM Only or mobile phone plan.&lt;/p&gt;",
+                "theme": "light",
+                "heroImage": "https://www.vodafone.com.au/images/icons/student-hi-dark-inline.png",
+                "title": "&lt;p&gt;Exclusive offers for students.&lt;/p&gt;",
+                "ctaLink": "https://www.vodafone.com.au/students/sim-only-phone-plans",
+                "ctaLabel": "See offer",
+                "termsAndConditions": "&lt;p&gt;New connections only. Mobile phone plan - device cost additional, min cost $39 + device RRP. Ends 13/11 (unless extended). T&amp;amp;C apply.&lt;/p&gt;"
+            }
+        ],
+        "experienceFragments": [
+            {
+                "fragmentId": "student-offer-banner",
+                "fragmentHtml":"&lt;div class=&quot;aem-Grid aem-Grid--12 aem-Grid--default--12 &quot;&gt;        &lt;div class=&quot;carousel-container responsivegrid aem-GridColumn aem-GridColumn--default--12&quot;&gt; &lt;div class=&quot;aem-Grid aem-Grid--12 aem-Grid--default--12 &quot;&gt;\t&lt;div class=&quot;base&quot;&gt;\t\t&lt;div class=&quot;clearfix&quot;&gt;\t\t\t\t\t\t&lt;div class=&quot;hero-banner aem-GridColumn aem-GridColumn--default--12&quot;&gt;    &lt;script src=&quot;/etc.clientlibs/vha/components/content/hero-banner/clientlibs.min.js&quot;&gt;&lt;/script&gt;    &lt;/div&gt;\t\t\t\t\t\t&lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;\t\t&lt;/div&gt;\t&lt;/div&gt;&lt;/div&gt;     &lt;vha-hero-banner-carousel id=&quot;va66acfe593e781af7b31a858ad1b249c86ebd3625a4c748cb5eb0e3878bda60a&quot; banners=&quot;[  {    &amp;#34;bgImg&amp;#34;: {      &amp;#34;desktop&amp;#34;: {        &amp;#34;src&amp;#34;: &amp;#34;https://www.vodafone.com.au/images/merch/postpaid/banners/limo-stud-200gb/1344-student-exc-simo-small-hero-desktop.webp&amp;#34;,        &amp;#34;altText&amp;#34;: &amp;#34;Small student SIMO&amp;#34;      },      &amp;#34;mobile&amp;#34;: {        &amp;#34;src&amp;#34;: &amp;#34;https://www.vodafone.com.au/images/merch/postpaid/banners/limo-stud-200gb/1344-student-exc-simo-small-hero-mobile.webp&amp;#34;,        &amp;#34;altText&amp;#34;: &amp;#34;Small student SIMO&amp;#34;      }    },    &amp;#34;headerText&amp;#34;: &amp;#34;Students, get 200GB for $39/mth for the first 12 mths, then $53/mth&amp;#34;,    &amp;#34;headerIsH1&amp;#34;: false,    &amp;#34;bodyText&amp;#34;: &amp;#34;\<p\>on a Small SIM Only\&nbsp;or mobile phone plan.\</p\>\\r\\n&amp;#34;,    &amp;#34;smallText&amp;#34;: &amp;#34;\<p\>New connections only. Mobile phone plan min cost $39 + device RRP. Device costs additional. Ends 13/11 (unless extended). \<vha-modal-dynamic modaltype\=\\&amp;#34;small\\&amp;#34; id\=\\&amp;#34;student-simo-small\\&amp;#34;\>T\&amp;C apply.\</vha-modal-dynamic\>\</p\>\\r\\n&amp;#34;,    &amp;#34;vendorBanner&amp;#34;: false,    &amp;#34;bannerVariant&amp;#34;: &amp;#34;regular&amp;#34;,    &amp;#34;theme&amp;#34;: &amp;#34;dark&amp;#34;,    &amp;#34;dlData&amp;#34;: {      &amp;#34;dlDisable&amp;#34;: false,      &amp;#34;dlEventName&amp;#34;: &amp;#34;eventTrack&amp;#34;,      &amp;#34;dlEventData&amp;#34;: {        &amp;#34;pageEventName&amp;#34;: &amp;#34;vca/stud-banner-200gb&amp;#34;      }    }  }]&quot;&gt;&lt;/vha-hero-banner-carousel&gt;&lt;/div&gt;    &lt;/div&gt;"
+            },
+            {
+                "fragmentId": "student-offer-timeline",
+                "fragmentHtml": "&lt;div class=&quot;aem-Grid aem-Grid--12 aem-Grid--default--12 &quot;&gt;        &lt;div class=&quot;column-control aem-GridColumn aem-GridColumn--default--12&quot;&gt;    &lt;script src=&quot;/etc.clientlibs/vha/components/content/column-control/clientlibs.min.js&quot;&gt;&lt;/script&gt;     &lt;vha-section id=&quot;v36cd2381e9c6a7c4355c6f448d06c272bc61676da26cbd08cf22bed1e956b01c&quot; verticalBottomSpace=&quot;yes&quot; verticalTopSpace=&quot;yes&quot; theme='light' style=&quot;background-color:&quot;&gt;&lt;vha-grid&gt;\t\t\t\t&lt;div class=&quot;s-12 l-12  &quot;&gt;\t\t\t\t&lt;div class=&quot;timeline section&quot;&gt;    &lt;link rel=&quot;stylesheet&quot; href=&quot;/etc.clientlibs/vha/components/content/richtext/clientlibs.min.css&quot; type=&quot;text/css&quot;&gt;&lt;script src=&quot;/etc.clientlibs/vha/components/content/richtext/clientlibs.min.js&quot;&gt;&lt;/script&gt;&lt;script src=&quot;/etc.clientlibs/vha/components/content/timeline/clientlibs.min.js&quot;&gt;&lt;/script&gt;         &lt;vha-timeline id=&quot;v448cf93e4780920a39f53a3a947250f4efdf8e6d3b7e2d0f8d1165b3d607e2c3&quot; variant=&quot;numbered&quot; itemsCount=&quot;4&quot;&gt;        &lt;h2 slot=&quot;title&quot;&gt;How to get our exclusive student offer &lt;/h2&gt;                    &lt;vha-timeline-item icon=&quot;https://www.vodafone.com.au/images/icons/bill-pay-phone-mid.svg&quot;&gt;                \t                &lt;p slot=&quot;heading&quot;&gt;\t                    Select your preferred plan\t                &lt;/p&gt;                                \t                &lt;vha-rte slot=&quot;description&quot;&gt;\t                    &lt;p&gt;Choose a plan that has a student offer running.&lt;/p&gt;\t                &lt;/vha-rte&gt;                            &lt;/vha-timeline-item&gt;                    &lt;vha-timeline-item icon=&quot;https://www.vodafone.com.au/images/icons/student-mid.svg&quot;&gt;                \t                &lt;p slot=&quot;heading&quot;&gt;\t                    Provide your student ID\t                &lt;/p&gt;                                \t                &lt;vha-rte slot=&quot;description&quot;&gt;\t                    &lt;p&gt;In checkout, select &lsquo;Student&rsquo; as your occupation and provide your student ID. If you don&rsquo;t know your student ID, check your enrolment letter or contact your school&rsquo;s Support team.&nbsp;&nbsp;&lt;/p&gt;\t                &lt;/vha-rte&gt;                            &lt;/vha-timeline-item&gt;                    &lt;vha-timeline-item icon=&quot;https://www.vodafone.com.au/images/icons/mid_shopping-trolley-mid.svg&quot;&gt;                \t                &lt;p slot=&quot;heading&quot;&gt;\t                    Complete checkout with your student details\t                &lt;/p&gt;                                \t                &lt;vha-rte slot=&quot;description&quot;&gt;\t                    &lt;p&gt;Finalise your details and complete checkout.&lt;/p&gt;\t                &lt;/vha-rte&gt;                            &lt;/vha-timeline-item&gt;                    &lt;vha-timeline-item icon=&quot;https://www.vodafone.com.au/images/icons/celebrate-mid.svg&quot;&gt;                \t                &lt;p slot=&quot;heading&quot;&gt;\t                    Sit back and relax!\t                &lt;/p&gt;                                \t                &lt;vha-rte slot=&quot;description&quot;&gt;\t                    &lt;p&gt;Your new SIM or phone should arrive the next business day in Metro areas, if ordered before 12pm AEST.&lt;/p&gt;\t                &lt;/vha-rte&gt;                            &lt;/vha-timeline-item&gt;            &lt;/vha-timeline&gt;    &lt;/div&gt;\t\t\t\t\t\t\t&lt;/div&gt;\t&lt;/vha-grid&gt;&lt;/vha-section&gt;\t&lt;/div&gt;    &lt;/div&gt;"
+            },
+            {
+                "fragmentId": "simo-page",
+                "fragmentHtml":"&lt;div class=&quot;aem-Grid aem-Grid--12 aem-Grid--default--12 &quot;&gt;        &lt;div class=&quot;carousel-container responsivegrid aem-GridColumn aem-GridColumn--default--12&quot;&gt; &lt;div class=&quot;aem-Grid aem-Grid--12 aem-Grid--default--12 &quot;&gt;\t&lt;div class=&quot;base&quot;&gt;\t\t&lt;div class=&quot;clearfix&quot;&gt;\t\t\t\t\t\t&lt;div class=&quot;hero-banner aem-GridColumn aem-GridColumn--default--12&quot;&gt;    &lt;script src=&quot;/etc.clientlibs/vha/components/content/hero-banner/clientlibs.min.js&quot;&gt;&lt;/script&gt;    &lt;/div&gt;\t\t\t\t\t\t&lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;\t\t&lt;/div&gt;\t&lt;/div&gt;&lt;/div&gt;     &lt;vha-hero-banner-carousel id=&quot;v297319f944b66da2e8e83c0fe37f37e1c9e57556ed035d6bf3363ad44ffe3ef8&quot; banners=&quot;[  {    &amp;#34;bgImg&amp;#34;: {      &amp;#34;desktop&amp;#34;: {        &amp;#34;src&amp;#34;: &amp;#34;https://www.vodafone.com.au/images/merch/events/apple-npi-2025/1367-nationwide-offer-small-hero-desktop.webp&amp;#34;,        &amp;#34;altText&amp;#34;: &amp;#34;Save $8/mth on plan fees&amp;#34;      },      &amp;#34;mobile&amp;#34;: {        &amp;#34;src&amp;#34;: &amp;#34;https://www.vodafone.com.au/images/merch/events/apple-npi-2025/1367-nationwide-offer-small-hero-mobile.webp&amp;#34;,        &amp;#34;altText&amp;#34;: &amp;#34;Save $8/mth on plan fees&amp;#34;      }    },    &amp;#34;headerText&amp;#34;: &amp;#34;Save $8/mth on plan fees&amp;#34;,    &amp;#34;headerIsH1&amp;#34;: false,    &amp;#34;bodyText&amp;#34;: &amp;#34;\<p\>for the first 12 months on a Small SIM Only plan. \</p\>\\r\\n&amp;#34;,    &amp;#34;smallText&amp;#34;: &amp;#34;\<p\>Ends 13/11 (unless extended). \<vha-modal-dynamic modaltype\=\\&amp;#34;small\\&amp;#34; id\=\\&amp;#34;simo-nationwide-sep\\&amp;#34;\>T\&amp;C apply.\</vha-modal-dynamic\>\</p\>\\r\\n&amp;#34;,    &amp;#34;vendorBanner&amp;#34;: false,    &amp;#34;bannerVariant&amp;#34;: &amp;#34;regular&amp;#34;,    &amp;#34;theme&amp;#34;: &amp;#34;dark&amp;#34;,    &amp;#34;dlData&amp;#34;: {      &amp;#34;dlDisable&amp;#34;: false,      &amp;#34;dlEventName&amp;#34;: &amp;#34;eventTrack&amp;#34;,      &amp;#34;dlEventData&amp;#34;: {        &amp;#34;pageEventName&amp;#34;: &amp;#34;vca/master&amp;#34;      }    }  }]&quot;&gt;&lt;/vha-hero-banner-carousel&gt;&lt;/div&gt;    &lt;/div&gt;"
+            },
+            {
+                "fragmentId": "online-btl-banner",
+                "fragmentHtml":"&lt;div class=&quot;aem-Grid aem-Grid--12 aem-Grid--default--12 &quot;&gt;        &lt;div class=&quot;carousel-container responsivegrid aem-GridColumn aem-GridColumn--default--12&quot;&gt; &lt;div class=&quot;aem-Grid aem-Grid--12 aem-Grid--default--12 &quot;&gt;\t&lt;div class=&quot;base&quot;&gt;\t\t&lt;div class=&quot;clearfix&quot;&gt;\t\t\t\t\t\t&lt;div class=&quot;hero-banner aem-GridColumn aem-GridColumn--default--12&quot;&gt;    &lt;script src=&quot;/etc.clientlibs/vha/components/content/hero-banner/clientlibs.min.js&quot;&gt;&lt;/script&gt;    &lt;/div&gt;\t\t\t\t\t\t&lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;\t\t&lt;/div&gt;\t&lt;/div&gt;&lt;/div&gt;     &lt;vha-hero-banner-carousel id=&quot;vc6dbe8b3a248678392288567528b3f0a4175fccfa80b03223b9158868c9f198d&quot; banners=&quot;[  {    &amp;#34;bgImg&amp;#34;: {      &amp;#34;desktop&amp;#34;: {        &amp;#34;src&amp;#34;: &amp;#34;https://www.vodafone.com.au/images/merch/1341-small-simo-geo-offerhero-desktop.webp&amp;#34;,        &amp;#34;altText&amp;#34;: &amp;#34;Get 60GB for $39/mth&amp;#34;      },      &amp;#34;mobile&amp;#34;: {        &amp;#34;src&amp;#34;: &amp;#34;https://www.vodafone.com.au/images/merch/1341-small-simo-geo-offer-hero-mobile.webp&amp;#34;,        &amp;#34;altText&amp;#34;: &amp;#34;Get 60GB for $39/mth&amp;#34;      }    },    &amp;#34;headerText&amp;#34;: &amp;#34;Get 60GB for $39/mth&amp;#34;,    &amp;#34;headerIsH1&amp;#34;: false,    &amp;#34;bodyText&amp;#34;: &amp;#34;\<p\>for the first 12 months, then $53/mth on a Small SIM Only plan.\</p\>\\r\\n&amp;#34;,    &amp;#34;smallText&amp;#34;: &amp;#34;\<p\>New connections in select postcodes only. Ends 13/11 (unless extended). \<vha-modal-dynamic modaltype\=\\&amp;#34;large\\&amp;#34; id\=\\&amp;#34;simo-exclusive-offer-july\\&amp;#34;\>T\&amp;C apply.\</vha-modal-dynamic\>\</p\>\\r\\n&amp;#34;,    &amp;#34;vendorBanner&amp;#34;: false,    &amp;#34;bannerVariant&amp;#34;: &amp;#34;regular&amp;#34;,    &amp;#34;theme&amp;#34;: &amp;#34;dark&amp;#34;,    &amp;#34;dlData&amp;#34;: {      &amp;#34;dlDisable&amp;#34;: false,      &amp;#34;dlEventName&amp;#34;: &amp;#34;eventTrack&amp;#34;,      &amp;#34;dlEventData&amp;#34;: {        &amp;#34;pageEventName&amp;#34;: &amp;#34;vca/master&amp;#34;      }    }  }]&quot;&gt;&lt;/vha-hero-banner-carousel&gt;&lt;/div&gt;    &lt;/div&gt;"
+            },
+            {
+                "fragmentId": "geo-offer-banner",
+                "fragmentHtml":"&lt;div class=&quot;aem-Grid aem-Grid--12 aem-Grid--default--12 &quot;&gt;        &lt;div class=&quot;carousel-container responsivegrid aem-GridColumn aem-GridColumn--default--12&quot;&gt; &lt;div class=&quot;aem-Grid aem-Grid--12 aem-Grid--default--12 &quot;&gt;\t&lt;div class=&quot;base&quot;&gt;\t\t&lt;div class=&quot;clearfix&quot;&gt;\t\t\t\t\t\t&lt;div class=&quot;hero-banner aem-GridColumn aem-GridColumn--default--12&quot;&gt;    &lt;script src=&quot;/etc.clientlibs/vha/components/content/hero-banner/clientlibs.min.js&quot;&gt;&lt;/script&gt;    &lt;/div&gt;\t\t\t\t\t\t&lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;\t\t&lt;/div&gt;\t&lt;/div&gt;&lt;/div&gt;     &lt;vha-hero-banner-carousel id=&quot;v1648d0a02bd6a53b37997d339e418d0d179ad87072a18e7afdf8d64370d4e1f7&quot; banners=&quot;[  {    &amp;#34;bgImg&amp;#34;: {      &amp;#34;desktop&amp;#34;: {        &amp;#34;src&amp;#34;: &amp;#34;https://www.vodafone.com.au/images/merch/1341-small-simo-geo-offer-hero-desktop.webp&amp;#34;,        &amp;#34;altText&amp;#34;: &amp;#34;Get 60GB for $39/mth for the first 12 months, then  $53/mth&amp;#34;      },      &amp;#34;mobile&amp;#34;: {        &amp;#34;src&amp;#34;: &amp;#34;https://www.vodafone.com.au/images/merch/1341-small-simo-geo-offer-hero-mobile.webp&amp;#34;,        &amp;#34;altText&amp;#34;: &amp;#34;Get 60GB for $39/mth for the first 12 months, then  $53/mth&amp;#34;      }    },    &amp;#34;headerText&amp;#34;: &amp;#34;Get 60GB for $39/mth for the first 12 months, then  $53/mth&amp;#34;,    &amp;#34;headerIsH1&amp;#34;: false,    &amp;#34;bodyText&amp;#34;: &amp;#34;\<p\>on a Small SIM Only plan.\</p\>\\r\\n&amp;#34;,    &amp;#34;smallText&amp;#34;: &amp;#34;\<p\>New connections in select postcodes only. Ends 31/7/25 (unless extended). \<vha-modal-dynamic modaltype\=\\&amp;#34;large\\&amp;#34; id\=\\&amp;#34;simo-exclusive-offer-july\\&amp;#34;\>T\&amp;C apply.\</vha-modal-dynamic\>\</p\>\\r\\n&amp;#34;,    &amp;#34;vendorBanner&amp;#34;: false,    &amp;#34;bannerVariant&amp;#34;: &amp;#34;regular&amp;#34;,    &amp;#34;theme&amp;#34;: &amp;#34;dark&amp;#34;,    &amp;#34;dlData&amp;#34;: {      &amp;#34;dlDisable&amp;#34;: false,      &amp;#34;dlEventName&amp;#34;: &amp;#34;eventTrack&amp;#34;,      &amp;#34;dlEventData&amp;#34;: {        &amp;#34;pageEventName&amp;#34;: &amp;#34;vca/master&amp;#34;      }    }  }]&quot;&gt;&lt;/vha-hero-banner-carousel&gt;&lt;/div&gt;    &lt;/div&gt;"
+            }
+        ],
+        "chatCTAText": "",
+        "chatDescriptionText": "",
+        "chatCTAIcon": "",
+        "choosePlanHeader": ""
+    },
+    "catalogCode": "CATPOSTPAIDSIMOPLANSV2"
+}
