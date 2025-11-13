@@ -1,8 +1,14 @@
 {
-  "scripts":{
-    "cy:run:firefox": "cypress run --browser firefox --headless"
+  "scripts": {
+    "cy:run:firefox": "cypress run --browser firefox --headless",
+    "cypress:run": "npx cypress run --reporter mochawesome --reporter-options reportDir=cypress/results,overwrite=false,html=false,json=true",
+    "cypress:report": "npx mochawesome-merge cypress/results/*.json > cypress/results/report.json && npx marge cypress/results/report.json -f report -o cypress/results/html"
   },
   "devDependencies": {
-    "cypress": "^15.6.0"
+    "cypress": "^15.6.0",
+    "mocha-junit-reporter": "^2.2.1",
+    "mochawesome": "^7.1.4",
+    "mochawesome-merge": "^5.0.0",
+    "mochawesome-report-generator": "^6.3.2"
   }
 }

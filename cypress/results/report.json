@@ -1,0 +1,109 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 1,
+    "passes": 0,
+    "pending": 0,
+    "failures": 1,
+    "testsRegistered": 1,
+    "passPercent": 0,
+    "pendingPercent": 0,
+    "other": 0,
+    "hasOther": false,
+    "skipped": 0,
+    "hasSkipped": false,
+    "start": "2025-11-13T15:38:08.306Z",
+    "end": "2025-11-13T15:38:23.306Z",
+    "duration": 15000
+  },
+  "results": [
+    {
+      "uuid": "442667c3-7f54-4e7a-a4c4-97d4135658f2",
+      "title": "",
+      "fullFile": "cypress/e2e/home.cy.js",
+      "file": "cypress/e2e/home.cy.js",
+      "beforeHooks": [],
+      "afterHooks": [],
+      "tests": [],
+      "suites": [
+        {
+          "uuid": "24fe1a98-ca1d-4c5e-8fe7-aca72fd8e5df",
+          "title": "The sim only plan flow",
+          "fullFile": "",
+          "file": "",
+          "beforeHooks": [],
+          "afterHooks": [],
+          "tests": [
+            {
+              "title": "Add the first Plan to Cart and Assert Values",
+              "fullTitle": "The sim only plan flow Add the first Plan to Cart and Assert Values",
+              "timedOut": null,
+              "duration": 12376,
+              "state": "failed",
+              "speed": null,
+              "pass": false,
+              "fail": true,
+              "pending": false,
+              "context": null,
+              "code": "let pricePlanUI = \"\";\nlet pricePlanAPI = \"\";\ncy.get(\"[data-index]\").find(\"[id*='plan-card']:not(#carousel-block-view-primaryPlans)\").as(\"desktopPlans\");\n// Get the displayed discounted price on the ui \ncy.get(\"@desktopPlans\").find(\"[data-testid='uplifted-plan-card-price'] [data-testid='price']\").first().then($el => {\n  pricePlanUI = $el.text();\n  cy.log(\"UI Price\", pricePlanUI);\n  // Get the discounted price on the api\n  cy.request(apiUrl).then(response => {\n    // Ensure response is valid\n    expect(response.status).to.eq(200);\n    // Extract the discounted price plan\n    pricePlanAPI = response.body.planListing.plans[0].discountedRecurringCharge;\n    // Compare values\n    const uiValue = parseFloat(pricePlanUI.replace(/[^0-9.]g/, '')); // remove any char that is not a number or a dot\n    const apiValue = parseFloat(pricePlanAPI);\n    expect(uiValue).to.eq(apiValue);\n  }).then(() => {\n    //=== Click the Add to Cart button\n    cy.get(\"@desktopPlans\").find(\"[data-testid='plan-card-actions-desktop'] button\").first().click({\n      force: true\n    });\n    //===== Assert Amount displayed on Sticky Cart\n    cy.get(\"[data-testid='sticky-cart-container']\").should(\"contain.text\", pricePlanUI);\n    //==== Continue to Cart\n    cy.get(\"[data-testid='sticky-cart-title-cta-button']\").click({\n      force: true\n    });\n    // //==== Assert Plan added on Cart vs. Selected Plan\n    cy.wait(10000).then(() => {\n      // to check if on the cart page\n      cy.contains(\"Your cart\");\n      // if asserted to the Original price plan\n      cy.contains(\"53\").should(\"be.visible\").scrollIntoView();\n      // if asserted to the discounted price plan\n      cy.contains(pricePlanUI, {\n        timeout: 10000\n      }).should(\"be.visible\").scrollIntoView();\n    });\n  });\n});",
+              "err": {
+                "message": "AssertionError: expected 45 to equal NaN",
+                "estack": "AssertionError: expected 45 to equal NaN\n    at Context.eval (webpack:///./cypress/e2e/home.cy.js:82:27)\n    at getRet (https://www.vodafone.com.au/__cypress/runner/cypress_runner.js:122341:20)\n    at tryCatcher (https://www.vodafone.com.au/__cypress/runner/cypress_runner.js:1777:23)\n    at Promise.attempt.Promise.try (https://www.vodafone.com.au/__cypress/runner/cypress_runner.js:4285:29)\n    at Context.thenFn (https://www.vodafone.com.au/__cypress/runner/cypress_runner.js:122352:66)\n    at Context.then (https://www.vodafone.com.au/__cypress/runner/cypress_runner.js:122603:21)",
+                "diff": null
+              },
+              "uuid": "06762e3b-9ffe-471f-b0e8-5c21a68bb328",
+              "parentUUID": "24fe1a98-ca1d-4c5e-8fe7-aca72fd8e5df",
+              "isHook": false,
+              "skipped": false
+            }
+          ],
+          "suites": [],
+          "passes": [],
+          "failures": [
+            "06762e3b-9ffe-471f-b0e8-5c21a68bb328"
+          ],
+          "pending": [],
+          "skipped": [],
+          "duration": 12376,
+          "root": false,
+          "rootEmpty": false,
+          "_timeout": 2000
+        }
+      ],
+      "passes": [],
+      "failures": [],
+      "pending": [],
+      "skipped": [],
+      "duration": 0,
+      "root": true,
+      "rootEmpty": true,
+      "_timeout": 2000
+    }
+  ],
+  "meta": {
+    "mocha": {
+      "version": "7.2.0"
+    },
+    "mochawesome": {
+      "options": {
+        "quiet": false,
+        "reportFilename": "mochawesome",
+        "saveHtml": false,
+        "saveJson": true,
+        "consoleReporter": "spec",
+        "useInlineDiffs": false,
+        "code": true
+      },
+      "version": "7.1.4"
+    },
+    "marge": {
+      "options": {
+        "reportDir": "cypress/results",
+        "overwrite": false,
+        "html": false,
+        "json": true
+      },
+      "version": "6.3.2"
+    }
+  }
+}
